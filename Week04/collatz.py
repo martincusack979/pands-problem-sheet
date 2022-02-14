@@ -13,5 +13,5 @@ def collatz(number):  # define function
         return result
 
 c = input("Enter number: ") # ask user to input number
-while c != 1:
-    c = collatz(int(c))
+while c != 1:               # Have the program end if the current value is one
+    c = collatz(int(c)) 
