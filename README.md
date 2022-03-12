@@ -1,16 +1,7 @@
-Weekly Tasks for Programming and Scripting Module
+Weekly Tasks 02
 
-Week 02
+Write a program that calculates somebody's Body Mass Index (BMI). Call the file bmi.py.
 
-Week 03
+Weekly Task 03
 
-Week 04
-
-Week 05
-
-Week 06
-
-Week 07
-
-Week 08
 
