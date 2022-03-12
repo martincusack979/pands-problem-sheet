@@ -5,3 +5,5 @@
 sentence = ("The quick brown fox jumps over the lazy dog.")
 # use slice to output every second letter in reverse order
 print(sentence[::-2])
+
+

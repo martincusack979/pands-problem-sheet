@@ -1,6 +1,3 @@
-# Write a program that outputs whether or not today is a weekday
-#Author: Martin Cusack
-
 daysOfTheWeek = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
 today = input("Enter day of week:")
 if today == ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"):
