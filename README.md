@@ -10,8 +10,8 @@ which in Python can be expressed by using *bmi = weight / height ** 2*. First I 
 **Weekly Task 03:**
 *Write a program that asks a user to input a string and outputs every second letter in reverse order.*
 
-In Python, you can specify a range by using a colon.  The object of this week's task is to use this feature to print out every second letter of a phrase in reverse order.
-In order to print every second letter in order, you could use the code [::2].  To print every second letter in reverse order, you need to alter this to [::-2]. When teh string "The quick brown fox jumps over the lazy dog" is entered, this code outputs the desired result, which is ".o zletrv pu o wr cu h"
+In Python, you can specify a range by using a colon.  The object of this week's task is to use a slice to print out every second letter of a phrase in reverse order.
+In order to print every second letter in order, you could use the code [::2].  To print every second letter in reverse order, you need to alter this to [::-2]. When the string "The quick brown fox jumps over the lazy dog" is entered, this code outputs the desired result, which is ".o zletrv pu o wr cu h"
 *Reference: I consulted Stack Overflow to help with this task. https://stackoverflow.com/questions/48873854/python-printing-ever-other-letter-of-a-word
 
 **Weekly Task 04:**
