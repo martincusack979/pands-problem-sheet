@@ -1,4 +1,6 @@
-**Weekly Tasks 02:**
+**WEEKLY TASKS FOR PROGRAMMING AND SCRIPTING MODULE**
+
+**Weekly Task 02:**
 *Write a program that calculates somebody's Body Mass Index (BMI). Call the file bmi.py.*
 
 To perform this calculation, you need to write a basic function in Python. BMI is calculated by dividing weight in kilograms by height in metres squared,
