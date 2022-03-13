@@ -21,10 +21,13 @@ To complete this week's task, I had to define a function which performs the coll
 *Reference: I consulted Stack Overflow to help with this task.* https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
 
 **Weekly Task 05:**
+*Write a program that outputs whether or not today is a weekday.*
 
 **Weekly Task 06:**
-
+*Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.*
 
 **Weekly Task 07**
+*Write a program that reads in a text file and outputs the number of e's it contains.*
 
 **Weekly Task 08**
+*Write a program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.)
