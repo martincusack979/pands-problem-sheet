@@ -22,6 +22,7 @@ To complete this week's task, I had to define a function which performs the coll
 
 **Weekly Task 05:**
 *Write a program that outputs whether or not today is a weekday.*
+To complete this task I had to import the datetime function using *"from datetime import datetime"*.  The weekday() method returns the day of the week as an integer where Monday is indexed as 0 and Sunday is 6. So to get the required message I used the if statement *"if d.weekday() > 4:"*
 
 **Weekly Task 06:**
 *Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.*
