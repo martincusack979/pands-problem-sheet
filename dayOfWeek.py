@@ -1,6 +1,13 @@
-daysOfTheWeek = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
-today = input("Enter day of week:")
-if today == ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"):
-  print("today is a weekday")
-elif today ==("Saturday", "Sunday"):
-    print("it's the weekend")
+# weekly task 05
+# Author: Martin Cusack
+
+from datetime import datetime  # import datetime to determine what day of the week it is
+d = datetime(2022, 3, 13)
+if d.weekday() > 4:  # use weekday() function to see if day is >4 or <4
+    print ("It is the weekend, yay!")
+else:
+    print ("Yes, unfortunately today is a weekday.")
+
+  
+
+
