@@ -33,8 +33,12 @@ To complete this task I had to import the datetime function using *"from datetim
 **Weekly Task 06:**
 *Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.*
 
+Unfortunately I ran out of time and did not complete this task.
+
 **Weekly Task 07**
 *Write a program that reads in a text file and outputs the number of e's it contains.*
+
+
 
 **Weekly Task 08**
 *Write a program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.)
