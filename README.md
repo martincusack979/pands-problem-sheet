@@ -38,7 +38,7 @@ I ran out of time and did not complete this task.
 **Weekly Task 07**
 *Write a program that reads in a text file and outputs the number of e's it contains.*
 
-To complete this task I had to find a txt file of Moby Dick and write a function to read it into Python and count the number of times the letter "e" appears in the text.  I used gutenberg.org to fid teh txt file and then wrote a simple function to count the frequency of the use of letter "e".
+To complete this task I sourced an online text file of "Moby Dick" and wrote a function to read it into Python and count the number of times the letter "e" appears in the text.  I used gutenberg.org to find the txt file.
 
 *Reference: I used https://www.gutenberg.org/files/2701/old/moby10b.txt to find the text of Moby Dick
 
