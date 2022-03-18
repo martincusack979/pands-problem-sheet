@@ -26,8 +26,20 @@ To complete this week's task, I had to define a function which performs the coll
 **Weekly Task 06:**
 *Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.*
 
+<<<<<<< HEAD
 **Weekly Task 07**
 *Write a program that reads in a text file and outputs the number of e's it contains.*
 
+=======
+I ran out of time and did not complete this task.
+
+**Weekly Task 07**
+*Write a program that reads in a text file and outputs the number of e's it contains.*
+
+To complete this task I had to find a txt file of Moby Dick and write a function to read it into Python and count the number of times the letter "e" appears in the text.  I used gutenberg.org to fid teh txt file and then wrote a simple function to count the frequency of the use of letter "e".
+
+*Reference: I used https://www.gutenberg.org/files/2701/old/moby10b.txt to find the text of Moby Dick
+
+>>>>>>> 11792ca54d5edac63c1280e6737bf139983077b7
 **Weekly Task 08**
 *Write a program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.)
