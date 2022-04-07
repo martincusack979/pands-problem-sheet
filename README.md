@@ -37,6 +37,8 @@ https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-
 
 ### Weekly Task 06: Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.
 
+I struggled with this week's task and unfortunately ran out of time.
+
 ### Weekly Task 07: Write a program that reads in a text file and outputs the number of e's it contains.
 
 To complete this task I sourced an online text file of "Moby Dick" and wrote a function to read it into Python and count the number of 
