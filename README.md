@@ -34,3 +34,23 @@ d.weekday() >4:"*
 
 *Reference: I consulted Stack Overflow to help with this task.*  
 https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python
+
+### Weekly Task 06: Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.
+
+### Weekly Task 07: Write a program that reads in a text file and outputs the number of e's it contains.
+
+To complete this task I sourced an online text file of "Moby Dick" and wrote a function to read it into Python and count the number of 
+times the letter "e" appears in the text. I used gutenberg.org to find the txt file and then invoked the count () function to calculate 
+the number of times "e" is used.
+
+*Reference: I used gutenberg.org to find text of Moby Text* 
+https://www.gutenberg.org/files/2701/old/moby10b.txt
+
+### Weekly Task 08: Write program called plottask.py displaying plot of functions f(x)=x, g(x)=x2 and h(x)=x3 in range [0, 4]
+
+To perform this task, I imported the numpy and matplotlib packages and used the scatter function to display the required 
+information.  
+
+*Reference: I based my work on the examples in this weeks labs and on the matplotlib module in Datacamp. See link below.*
+https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=13
+
